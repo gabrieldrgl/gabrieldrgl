@@ -23,7 +23,7 @@
 
 <div align="center">
   <h3>Languages and Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,rails" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=ruby,postgres,docker,nodejs,typescript,express,unity" /><br>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,docker,typescript,unity" /><br>
 </div>
