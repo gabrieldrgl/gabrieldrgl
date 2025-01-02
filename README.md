@@ -11,10 +11,10 @@
 </div>
 
 <div align="center">
-  <a href="mailto:gabriel.augusto2504@gmail.com">
+  <a href="mailto:gabriel.drgl.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-augusto-5aa35722b/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrieldrgl/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
